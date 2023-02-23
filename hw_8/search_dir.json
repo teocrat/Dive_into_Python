@@ -1,0 +1,140 @@
+[
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8",
+    "searched": "hw_8",
+    "file_or_dir": "it`s directory",
+    "size": "size_dir = 4838 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8",
+    "searched": "json_in.json",
+    "file_or_dir": "it`s file",
+    "size": "size = 659 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8",
+    "searched": "names.json",
+    "file_or_dir": "it`s file",
+    "size": "size = 198 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8",
+    "searched": "task_1.py",
+    "file_or_dir": "it`s file",
+    "size": "size = 467 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8",
+    "searched": "task_2.py",
+    "file_or_dir": "it`s file",
+    "size": "size = 973 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8",
+    "searched": "task_3.py",
+    "file_or_dir": "it`s file",
+    "size": "size = 727 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8",
+    "searched": "task_4.py",
+    "file_or_dir": "it`s file",
+    "size": "size = 776 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8",
+    "searched": "\u043c\u0435\u0442\u043e\u0434\u0438\u0447\u043a\u0430_8.pdf",
+    "file_or_dir": "it`s file",
+    "size": "size = 437252 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8",
+    "searched": "\u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u044f_\u043b\u0435\u043a\u0446\u0438\u0438_8.pdf",
+    "file_or_dir": "it`s file",
+    "size": "size = 1617891 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8\\hw_8",
+    "searched": "json_in.csv",
+    "file_or_dir": "it`s file",
+    "size": "size = 251 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8\\hw_8",
+    "searched": "json_in.json",
+    "file_or_dir": "it`s file",
+    "size": "size = 659 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8\\hw_8",
+    "searched": "json_in.pickle",
+    "file_or_dir": "it`s file",
+    "size": "size = 308 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8\\hw_8",
+    "searched": "names.json",
+    "file_or_dir": "it`s file",
+    "size": "size = 198 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8\\hw_8",
+    "searched": "names.pickle",
+    "file_or_dir": "it`s file",
+    "size": "size = 109 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8\\hw_8",
+    "searched": "out.csv",
+    "file_or_dir": "it`s file",
+    "size": "size = 72 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8\\hw_8",
+    "searched": "search_dir.csv",
+    "file_or_dir": "it`s file",
+    "size": "size = 32 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8\\hw_8",
+    "searched": "search_dir.json",
+    "file_or_dir": "it`s file",
+    "size": "size = 2 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8\\hw_8",
+    "searched": "search_dir.pickle",
+    "file_or_dir": "it`s file",
+    "size": "size = 5 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8\\hw_8",
+    "searched": "search_in_dir.py",
+    "file_or_dir": "it`s file",
+    "size": "size = 1394 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8\\hw_8",
+    "searched": "task_5.py",
+    "file_or_dir": "it`s file",
+    "size": "size = 578 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8\\hw_8",
+    "searched": "task_6.py",
+    "file_or_dir": "it`s file",
+    "size": "size = 555 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8\\hw_8",
+    "searched": "task_7.py",
+    "file_or_dir": "it`s file",
+    "size": "size = 616 bytes"
+  },
+  {
+    "path": "C:\\Users\\Serge\\python_lessons\\Dive_into_Python\\lesson_8\\hw_8",
+    "searched": "__init__.py",
+    "file_or_dir": "it`s file",
+    "size": "size = 59 bytes"
+  }
+]
