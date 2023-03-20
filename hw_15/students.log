@@ -1,0 +1,9 @@
+2023-03-20 13:22:40,897 ERROR __set__->27: Bad Ed2dy
+2023-03-20 13:23:12,398 ERROR __init__->52: [Errno 2] No such file or directory: 'Eddy_Van_Halen.csv' No such file or directory: Eddy_Van_Halen
+2023-03-20 13:24:01,346 ERROR __init__->52: [Errno 2] No such file or directory: 'Eddy_Van_Halen.csv'
+2023-03-20 13:25:05,401 ERROR __init__->46: [Errno 2] No such file or directory: 'Eddy_Van_Halen.csv'
+2023-03-20 13:27:07,118 ERROR __init__->52: [Errno 2] No such file or directory: 'Eddy_Van_Halen.csv'
+2023-03-20 13:28:09,992 ERROR __set__->27: Bad Ax3el
+2023-03-20 13:28:53,168 ERROR __init__->52: [Errno 2] No such file or directory: 'Eddy_Van_Halen.csv'
+2023-03-20 13:29:18,131 ERROR __init__->52: [Errno 2] No such file or directory: 'Eddy_Van_Halen.csv'
+2023-03-20 13:29:57,210 ERROR __set__->27: Bad Rud4y
